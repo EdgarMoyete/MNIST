@@ -1,2 +1,2 @@
 # MNIST
-Clasificacion del conjunto de datos MNIST con MLP y CNN
+Clasificacion del conjunto de datos MNIST con MLP y CNN utilizando Keras
